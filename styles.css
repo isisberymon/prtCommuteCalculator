@@ -158,3 +158,12 @@ p {
   width: 1000px;
   line-height: 120%;
 }
+
+footer{
+  font-family: "Fira Code", monospace;
+  font-weight: 300;
+  font-size: 12pt;
+  margin-top: 3rem;
+  margin-left: 8rem;
+  margin-bottom: 3rem;
+}
